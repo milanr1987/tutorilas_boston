@@ -1,0 +1,7 @@
+# Vim privremene datoteke:
+*.swp
+*.swo
+# Java kompajlirane datoteke:
+*.class
+# Output direktorij s rezultatima kompajliranja i builda
+target/*
