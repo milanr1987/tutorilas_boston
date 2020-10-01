@@ -1,3 +1,3 @@
-## This branch iz about new boston video
+## This branch is about new boston video
 
 ##Second edit from MIlaRucimo pull 
